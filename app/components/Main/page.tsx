@@ -6,7 +6,7 @@ const Page = () => {
   return (
     <main className="flex flex-col">
       <Navbar />
-      <div className="w-full max-w-[1142px] md:w-[calc(100%-200px)] h-auto md:h-[654px] mx-auto bg-zinc-950 rounded-[30px] overflow-hidden relative border border-[linear-gradient(to bottom, #ffffff 100%, #000000 10%)] p-4 md:p-0">
+      <div className="w-full max-w-[1240px] md:w-[calc(100%-200px)] h-auto md:h-[654px] mx-auto bg-zinc-950 rounded-[30px] overflow-hidden relative border border-[linear-gradient(to bottom, #ffffff 100%, #000000 10%)] p-4 md:p-0">
         <div className="w-full text-center text-white/opacity-5 text-5xl sm:text-7xl md:text-9xl font-bold font-['Instrument Sans'] tracking-[6px] absolute bottom-0 left-1/2 transform -translate-x-1/2 animate-slide-up">
           COMING SOON
         </div>
