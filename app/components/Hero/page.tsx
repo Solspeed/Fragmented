@@ -28,7 +28,7 @@ const Page = () => {
             <div className="bg-violet-800 rounded-[40px] px-9 py-6 flex items-center justify-center">
               <div className="text-white text-lg font-medium font-['Instrument Sans']">
                 Get in touch
-              </div>
+              </div>    
             </div>
           </div>
           <div className="absolute left-[28px] top-[28px] opacity-30 text-white text-lg font-medium font-['Instrument Sans']">

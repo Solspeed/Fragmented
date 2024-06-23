@@ -4,8 +4,8 @@ import Main from './components/Main/page';
 
 export default function Home() {
   return (
-    <main className=" bg-[#08070B]">
-   <Navbar />
+    <main className=" bg-[#08070B] flex flex-col">
+   {/* <Navbar /> */}
    <Main />
     </main>
   );
