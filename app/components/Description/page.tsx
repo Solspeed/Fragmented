@@ -1,5 +1,5 @@
 import React from "react";
-import Cards from '../Cards/page'
+import Card from '../Card/page'
 
 const Page = () => {
   return (
@@ -26,7 +26,7 @@ const Page = () => {
         ownership of Non-Fungible Tokens (NFTs). Our technology helps more
         investors access high-value digital assets.
       </div>
-      <Cards />
+      <Card />
     </main>
   );
 };

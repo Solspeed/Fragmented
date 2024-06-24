@@ -23,7 +23,7 @@ const Page = () => {
               participate in the digital asset
             </div>
           </div>
-          <div className="md:mt-0 md:absolute left-1/2 transform md:-translate-x-1/2 top-[290px] w-full max-w-[604px] h-[74px]  ">
+          <div className=" mb-8 md:mt-0 md:absolute left-1/2 transform md:-translate-x-1/2 top-[290px] w-full max-w-[604px] h-[74px]  ">
             <div className=" w-full h-full bg-black rounded-[37px] border-[0.8px]  border-white" style={{ opacity: 0.14 }}></div>
             <div className="absolute left-1/2 transform md:-translate-x-1/2 md:left-[70%] md:transform-none top-[6px] w-[177px] h-[62px] flex items-center justify-center gap-6 ">
               <div className="bg-violet-800 rounded-[37px] px-4 py-2 md:px-9 md:py-5 flex items-center justify-center ">
