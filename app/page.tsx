@@ -3,6 +3,7 @@ import Navbar from './components/Navbar/page';
 import Main from './components/Main/page';
 import Description from "./components/Description/page"
 import Working from './components/Working/page'
+import UseCase from './components/UseCase/page'
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
    <Main />
     <Description />
     <Working />
+    <UseCase />
     </main>
   );
 }

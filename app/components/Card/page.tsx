@@ -3,7 +3,7 @@ import React from "react";
 const Page = () => {
   const cards = Array(6).fill(
     <div
-      className="w-[384px] h-[384px]  rounded-[1.875rem] flex-shrink-0"
+      className="  w-[384px] h-[384px]  rounded-[1.875rem] flex-shrink-0"
       style={{
         backgroundImage: `url("/card1.png")`,
         backgroundSize: "cover",
