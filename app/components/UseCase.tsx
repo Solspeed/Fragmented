@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Bcard from "./bcard";
+import Fragper from "./fragper";
 const Page = () => {
   return (
     <section className=" flex flex-col ">
@@ -29,7 +30,7 @@ const Page = () => {
         </div>
       </div> */} 
       <Bcard />
-    
+    <Fragper />
     </section>
   );
 };
