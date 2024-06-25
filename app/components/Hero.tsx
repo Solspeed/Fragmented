@@ -6,7 +6,7 @@ const Page = () => {
     
       {/* Main Section */}
       <div className="w-[1142px] md:w-[calc(100%-200px)] h-[654px] mx-auto mt-[118px] bg-zinc-950 rounded-[30px] relative">
-        <div className="w-full text-center text-white/opacity-5 text-7xl md:text-9xl font-bold font-['Instrument Sans'] tracking-[6px] absolute bottom-0 left-[50%] transform -translate-x-1/2">
+        <div className="w-full text-center  text-white/opacity-5 text-7xl md:text-9xl font-bold font-['Instrument Sans'] tracking-[6px] absolute bottom-0 left-[50%] transform -translate-x-1/2">
           COMING SOON
         </div>
         <div className="absolute left-[50%] transform -translate-x-1/2 top-[-127px] w-[1080px] h-[433px] bg-violet-800 rounded-full blur-[490px]"></div>
@@ -28,7 +28,7 @@ const Page = () => {
             <div className="bg-violet-800 rounded-[40px] px-9 py-6 flex items-center justify-center">
               <div className="text-white text-lg font-medium font-['Instrument Sans']">
                 Get in touch
-              </div>    
+              </div>
             </div>
           </div>
           <div className="absolute left-[28px] top-[28px] opacity-30 text-white text-lg font-medium font-['Instrument Sans']">

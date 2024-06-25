@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
+    <div className="flex flex-col items-center">
       <div className="relative w-full max-w-[1240px] h-[100px] mx-auto mt-28">
         <div
           className="absolute top-0 left-0 w-full h-[76px] text-center text-[100px] font-bold font-['Instrument Sans'] uppercase leading-[82px] tracking-[5.50px]"

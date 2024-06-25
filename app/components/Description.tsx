@@ -1,6 +1,5 @@
 import React from "react";
-import Card from '../Card/page'
-
+import Card from './Card'
 const Page = () => {
   return (
     <main className="flex flex-col justify-center items-center flex-shrink-0 gap-8 p-4 md:p-0">
