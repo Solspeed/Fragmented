@@ -33,7 +33,7 @@ const Working = () => {
         <div
           className="w-full md:w-[37.375rem] h-[19.8125rem] rounded-[1.875rem]"
           style={{
-            backgroundImage: `url("/working4.png")`,
+            backgroundImage: `url("/SECOND.png")`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
@@ -42,7 +42,7 @@ const Working = () => {
         <div
           className="w-full md:w-[37.375rem] h-[19.8125rem] rounded-[1.875rem]"
           style={{
-            backgroundImage: `url("/working4.png")`,
+            backgroundImage: `url("/working3.png")`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
@@ -51,7 +51,7 @@ const Working = () => {
         <div
           className="w-full md:w-[37.375rem] h-[19.8125rem] rounded-[1.875rem]"
           style={{
-            backgroundImage: `url("/working4.png")`,
+            backgroundImage: `url("/Group 39480 (1).png")`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",

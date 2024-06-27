@@ -8,7 +8,7 @@ const Bcard = () => {
           key={item}
           className="w-full md:w-[384px] h-[250px] md:h-[384px] rounded-sm md:rounded-[1.875rem] bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url("/bcard1.png")`,
+            backgroundImage: `url("/map.png")`,
           }}
         >
           {/* <div className="flex w-full h-full bg-black bg-opacity-50 rounded-[1.875rem]">
