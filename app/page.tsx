@@ -7,10 +7,10 @@ import UseCase from "./components/UseCase";
 
 export default function Home() {
   return (
-    <main className=" bg-[#08070B] flex flex-col">
+    <main className=" bg-[#08070B] flex flex-col ">
       {/* <Navbar /> */}
-      <Main />  
-      <Description />
+        <Main />  
+        <Description />
       <Working />
       <UseCase />
     </main>
