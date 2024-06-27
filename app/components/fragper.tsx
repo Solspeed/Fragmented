@@ -2,8 +2,8 @@ import React from "react";
 
 const fragper = () => {
   return (
-    <main className=" flex flex-col items-center mt-44">
-      <div className=" flex w-[470px] h-[81px] justify-between">
+    <main className=" flex flex-col items-center mt-44 mb-96">
+      <div className=" flex w-full max-w-[470px] h-auto md:h-[81px] justify-between">
         <div>
           <img
             className="w-[81px] h-[81px] rounded-[10px] border border-black/opacity-30"
