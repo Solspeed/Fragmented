@@ -2,7 +2,7 @@ import React from "react";
 
 const SolanaFooter = () => {
   return (
-    <div className="relative w-full max-w-[1240px] mx-auto flex-shrink-0">
+    <div className="relative w-full max-w-[1240px] mx-auto flex-shrink-0 mt-24" >
       <div className="relative">
         <img src="/solanfooter.png" alt="" className="w-full h-auto" />
         <div className="absolute inset-0 flex items-center justify-center">

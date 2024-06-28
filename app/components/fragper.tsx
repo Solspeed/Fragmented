@@ -2,8 +2,8 @@ import React from "react";
 
 const fragper = () => {
   return (
-    <main className=" flex flex-col items-center mt-44 mb-96">
-      {/* <div className=" flex w-full max-w-[470px] h-auto md:h-[81px] justify-between">
+    <main className=" flex flex-col items-center mt-40 ">
+      <div className=" flex w-full max-w-[470px] h-auto md:h-[81px] justify-between">
         <div>
           <img
             className="w-[81px] h-[81px] rounded-[10px] border border-black/opacity-30"
@@ -35,7 +35,7 @@ const fragper = () => {
       <div className="w-[169px] h-[34px] text-center text-white text-3xl font-bold font-['Instrument Sans'] leading-[30px]">
         Percentage
       </div>
-      </div> */}
+      </div>
     </main>
   );
 };
