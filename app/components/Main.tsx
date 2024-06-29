@@ -28,7 +28,7 @@ const Page = () => {
             </div>
           </div>
           <div className="mb-24 md:mt-0 md:absolute left-1/2 transform md:-translate-x-1/2 top-[290px] w-full max-w-[604px] h-[64px] sm:h-[74px]">
-            <div className="w-full h-full bg-black bg-opacity-20 relative rounded-[37px] border-[0.8px] border-white">
+            <div className="w-full h-full bg-black bg-opacity-20 relative rounded-[37px] border-[0.8px] border-white mt-6 md:mt-0">
               <div className="w-fit z-50 p-1 absolute right-0 h-full flex flex-1">
                 <div className="bg-violet-800 rounded-[37px] px-3 py-2 sm:px-4 sm:py-2 md:px-9 md:py-5 flex items-center">
                   <div className="text-white text-sm sm:text-md md:text-lg font-medium font-['Instrument Sans']">
@@ -37,7 +37,7 @@ const Page = () => {
                 </div>
               </div>
             </div>
-            <div className="absolute left-[20px] sm:left-[28px] top-[20px] sm:top-[28px] opacity-30 text-white text-xs sm:text-sm md:text-lg font-medium font-['Instrument Sans']">
+            <div className="absolute left-[20px] hidden sm:left-[28px] top-[20px] sm:top-[28px] opacity-30 text-white text-xs sm:text-sm md:text-lg font-medium font-['Instrument Sans']">
               Add your email address
             </div>
           </div>

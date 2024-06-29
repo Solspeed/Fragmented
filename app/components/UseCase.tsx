@@ -23,7 +23,7 @@ const Page = () => {
           WHAT IS FRAGMENTED?
         </div>
       </div>
-      </main>
+      </main> 
       {/* <div>
         <div className="w-96 h-96 bg-zinc-950 rounded-[30px]">
           <img src="/bcard1.png" alt="" />
